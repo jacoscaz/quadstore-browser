@@ -15,8 +15,8 @@ engine, the [browser-level][1] backend for persistent storage via IndexedDB and
 
 | package              | version  |
 |----------------------|----------|
-| `quadstore`          | `15.3.0` |
-| `quadstore-comunica` | `6.2.0`  |
+| `quadstore`          | `15.4.1` |
+| `quadstore-comunica` | `6.3.1`  |
 | `browser-level`      | `3.0.0`  |
 | `rdf-data-factory`   | `2.0.2`  |
 
